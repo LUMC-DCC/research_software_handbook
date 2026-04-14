@@ -28,7 +28,7 @@ site:
   title: LUMC Research Software Handbook
   baseurl: /research_software_handbook
   nav:
-    - title: Training Site
+    - title: Back to LUMC Research Software Training Portal
       url: https://lumc-dcc.github.io/research_software_training/
   options:
     logo_text: LUMC Research Software Handbook
