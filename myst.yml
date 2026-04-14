@@ -3,8 +3,9 @@ project:
   title: LUMC Research Software Handbook
   subtitle: A practical guide for researchers building better software
   authors:
-    - name: LUMC Research Software Training
-      url: https://lumc-dcc.github.io/research_software_training/
+    - name: Özgün Balaban
+      email: o.balaban@lumc.nl
+      url: https://ozgunbalaban.com
   keywords:
     - research software
     - best practices
@@ -26,5 +27,8 @@ site:
   template: book-theme
   title: LUMC Research Software Handbook
   baseurl: /research_software_handbook
+  nav:
+    - title: Training Site
+      url: https://lumc-dcc.github.io/research_software_training/
   options:
-    logo_text: LUMC Handbook
+    logo_text: LUMC Research Software Handbook
