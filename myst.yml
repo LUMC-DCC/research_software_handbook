@@ -25,5 +25,6 @@ project:
 site:
   template: book-theme
   title: LUMC Research Software Handbook
+  baseurl: /research-software-handbook
   options:
     logo_text: LUMC Handbook
