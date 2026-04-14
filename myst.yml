@@ -11,7 +11,7 @@ project:
     - reproducibility
     - version control
     - FAIR software
-  github: https://github.com/lumc-dcc/research-software-handbook
+  github: https://github.com/lumc-dcc/research_software_handbook
   toc:
     - file: index
     - title: Version Control
@@ -25,6 +25,6 @@ project:
 site:
   template: book-theme
   title: LUMC Research Software Handbook
-  baseurl: /research-software-handbook
+  baseurl: /research_software_handbook
   options:
     logo_text: LUMC Handbook

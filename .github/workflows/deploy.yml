@@ -31,7 +31,7 @@ jobs:
       - name: Build HTML site
         run: myst build --html
         env:
-          BASE_URL: /research-software-handbook
+          BASE_URL: /research_software_handbook
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
