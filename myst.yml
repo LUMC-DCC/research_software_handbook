@@ -1,0 +1,29 @@
+version: 1
+project:
+  title: LUMC Research Software Handbook
+  subtitle: A practical guide for researchers building better software
+  authors:
+    - name: LUMC Research Software Training
+      url: https://lumc-dcc.github.io/research_software_training/
+  keywords:
+    - research software
+    - best practices
+    - reproducibility
+    - version control
+    - FAIR software
+  github: https://github.com/lumc-dcc/research-software-handbook
+  toc:
+    - file: index
+    - title: Version Control
+      children:
+        - file: version-control/index
+        - file: version-control/git-basics
+        - file: version-control/github-flow
+    - title: Open & FAIR Software
+      children:
+        - file: open-science/index
+site:
+  template: book-theme
+  title: LUMC Research Software Handbook
+  options:
+    logo_text: LUMC Handbook
